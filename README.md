@@ -1,2 +1,2 @@
-# GDSC-git
-Repository testing GDSC git-seminar practice 
+# GDSC-git 
+Repository testing GDSC git-seminar practice  
